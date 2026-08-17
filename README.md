@@ -588,6 +588,7 @@ We know that Vi-[clones](http://www.linfo.org/vi/clones.html)/derivatives have V
 * :white_check_mark: [vy](https://github.com/vyapp/vy) - A Vim-like in python made from scratch.
 * :white_check_mark: [WinVi](https://winvi.de/en/) - A Windows text editor highly compatible with Vi.
 * :white_check_mark: [VNote](http://app.vnote.fun/en_us/) - A note-taking editor with Vi mode and Vi-like navigation.
+* :white_check_mark: [novelWriter](https://novelwriter.io/) - Plain text editor for novel writing with built-in [Vim mode navigation](https://novelwriter.io/docs/features/vim_mode.html)
 * :white_check_mark: ~[oni2 (onivim)](https://github.com/onivim/oni2)~ - [Deprecated](https://github.com/onivim/oni2/issues/3861).
 * :white_check_mark: ~[editra](https://github.com/cjprecord/editra)~ - Developers Text Editor, with a Vi-mode.
 * [Inkdrop](https://www.inkdrop.app/) - A Markdown note-taking app.
