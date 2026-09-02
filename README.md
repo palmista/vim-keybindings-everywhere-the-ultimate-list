@@ -484,6 +484,7 @@ Terminology:
 * :white_check_mark: [keystrokes](https://github.com/Darukutsu/keystrokes) - Record your keystrokes and replay them just like in Vim macro, Linux (X11/Wayland)
 * :white_check_mark: [AltTab](https://alt-tab-macos.netlify.app/) - A utility that brings Windows-style Alt-Tab functionality to macOS with Vim key support.  To enable Vim keys, go to:  `Preferences` → `Controls` → `Additional controls` → **Select windows using Vim keys**.
 * :white_check_mark: [Hints](https://github.com/AlfredoSequeida/hints) - Navigate GUI applications in Linux without your mouse by displaying "hints" you can type on your keyboard to interact with GUI elements (X11/Wayland)
+* :white_check_mark: [VimAction](https://github.com/pilyang/vim-action) - Intercepts keystrokes system-wide and turns them into Vim modes, motions and operators in any macOS text field. Open source.
 
 ## System Tools
 
